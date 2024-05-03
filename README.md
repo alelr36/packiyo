@@ -8,7 +8,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm install
 ```
 
-First, run the development server:
+### Add `API_TOKEN` to the .env file
+
+API_TOKEN was provided via email.
+
+Then run the development server:
 
 ```bash
 npm run dev
